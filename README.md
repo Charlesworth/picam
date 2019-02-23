@@ -1,6 +1,10 @@
 # picam
 A simple server for taking pictures and videos on the raspberry-pi over http.
 
+Requires MP4Box installation on the pi:
+
+    sudo apt-get install -y gpac
+
 ## Arguements
 
     Usage of ./picam:
